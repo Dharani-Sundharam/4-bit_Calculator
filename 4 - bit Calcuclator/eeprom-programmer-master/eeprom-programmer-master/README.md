@@ -8,11 +8,6 @@ This is a simple circuit for programming the 28C16, 28C64, 28C256, and similar p
 
 ![Schematic of EEPROM programmer](https://raw.githubusercontent.com/beneater/eeprom-programmer/master/schematic.png)
 
-
-## What’s here?
-
-There are four different Arduino sketches that correspond to several YouTube videos. A lot of the code is duplicated since each sketch built on the previous ones. But I’ve kept them separate to make it easier to find the exact code that goes with a particular video:
-
 ### 1. Basic programmer
 
 The code in [`/eeprom-programmer`](/eeprom-programmer) is the basic programmer that programs a few bytes into the EEPROM and dumps the contents.
