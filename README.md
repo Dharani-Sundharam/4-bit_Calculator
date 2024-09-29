@@ -18,6 +18,7 @@ And also Ben Eater's [8-bit breadboard computer](https://youtu.be/HyznrdDSSGM?si
 - Clock (I used a 555 timer to represent a clock)
 - Resistors, capacitors, and LEDs (resistors and capacitors are variable refer Ben eater's Video for more information)
 - Push buttons for user input
+- For more detailed components [refer_this](https://github.com/Dharani-Sundharam/4-bit_Calculator/blob/d7d83a97118d44081cdc454f9fce39f5ac171ad5/4%20-%20bit%20Calcuclator/4-bit%20parts.txt)
 
 ## Circuit Design
 The calculator is designed with a series of logic gates to handle arithmetic operations. 
