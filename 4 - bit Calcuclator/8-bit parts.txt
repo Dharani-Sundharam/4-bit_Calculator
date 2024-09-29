@@ -1,0 +1,39 @@
+14	Breadboard
+1	22 AWG Solid Tinned-Copper Hook-Up Wire
+10	1kΩ resistor
+9	10kΩ resistor
+1	100kΩ resistor
+24	470Ω resistor
+1	1MΩ resistor
+1	1MΩ potentiometer
+6	0.01µF capacitor
+16	0.1µF capacitor
+1	1µF capacitor
+4	555 timer IC(Rs.10)
+2	74LS00 (Quad NAND gate)(Rs.20)
+1	74LS02 (Quad NOR gate)(Rs.20)
+5	74LS04 (Hex inverter)(Rs.20)
+3	74LS08 (Quad AND gate)(Rs.20)
+1	74LS32 (Quad OR gate)(Rs.20)
+1	74LS107 (Dual JK flip-flop)[Note: The videos use the 74LS76 which is extremely difficult to find. The 74LS107 is functionally equivalent but be careful: it has a different pinout.](Rs.40)
+2	74LS86 (Quad XOR gate)(Rs.20)
+1	74LS138 (3-to-8 line decoder)(Rs.20)
+1	74LS139 (Dual 2-line to 4-line decoder)(Rs.30)
+4	74LS157 (Quad 2-to-1 line data selector)(Rs.20)
+2	74LS161 (4-bit synchronous binary counter)(Rs.20)
+8	74LS173 (4-bit D-type register)(Rs.20)
+2	74189 (64-bit random access memory)(Rs.150)
+6	74LS245 (Octal bus transceiver)(Rs.40)
+1	74LS273 (Octal D flip-flop)(Rs.45 LS) (Rs.55 HC)
+2	74LS283 (4-bit binary full adder)(Rs.100)
+3	28C16 EEPROM(Cannot find it...:( )
+3	Double-throw toggle switch
+3	Momentary 6mm tact switch
+1	8-position DIP switch
+1	4-position DIP switch
+44	Red LED
+8	Yellow LED
+12	Green LED
+21	Blue LED
+4	Common cathode 7-segment display
+50      M to M Jumpers
