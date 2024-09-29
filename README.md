@@ -92,6 +92,8 @@ Will be available soon !!!
 
 [4BBC_documentation.pdf](https://github.com/user-attachments/files/17177556/4BBC_documentation.pdf) *Credits: Oskar Fornander*
 
+## All the Codes I used are in the '4 - bit Calcuclator/eeprom-programmer-master/eeprom-programmer-master' refer the repository and this [video](https://youtu.be/K88pgWhEb1M?si=3_O_zjXV89EgjO-n)
+
 ## License
 This project is licensed under the MIT License.
 
